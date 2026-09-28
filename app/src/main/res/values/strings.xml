@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">InternTrack</string>
+    <string name="hello_android">Hello %1$s!</string>
+</resources>

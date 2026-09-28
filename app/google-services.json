@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "37344318727",
+    "project_id": "interntrack-fd460",
+    "storage_bucket": "interntrack-fd460.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:37344318727:android:54c28050265b55f98821a2",
+        "android_client_info": {
+          "package_name": "com.example.interntrack"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVzjG2wndkyuVUw8Xs8wsE5kDgzISM2y8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
